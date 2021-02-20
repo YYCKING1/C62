@@ -1,0 +1,55 @@
+#thor {
+    width: 200px;
+    height: 200px;
+}
+
+#ironman {
+    width: 200px;
+    height: 200px;
+}
+
+#strange {
+    width: 200px;
+    height: 200px;
+}
+
+#gamora {
+    width: 200px;
+    height: 200px;
+}
+
+#hulk {
+    width: 200px;
+    height: 200px;
+}
+
+#captainamerica {
+    width: 200px;
+    height: 200px;
+}
+
+#vision {
+    width: 200px;
+    height: 200px;
+}
+
+#hawkeye {
+    width: 200px;
+    height: 200px;
+}
+
+#myCarousel {
+    background-color: pink;
+}
+
+#myCarousel img {
+    height: 400px;
+    margin-top: 45px;
+}
+
+.carousel-inner p {
+    margin-bottom: 25px;
+    margin-top: 25px;
+    color: red;
+    font-size: 25px;
+}
